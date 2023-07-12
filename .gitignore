@@ -115,3 +115,4 @@ spleeter-feedstock/
 ffmpeg.exe
 .gitignore
 ffprobe.exe
+venv
