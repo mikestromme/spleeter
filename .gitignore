@@ -114,3 +114,4 @@ spleeter-feedstock/
 *FAKE_MUSDB_DIR
 ffmpeg.exe
 .gitignore
+ffprobe.exe
