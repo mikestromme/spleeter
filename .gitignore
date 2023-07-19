@@ -112,12 +112,3 @@ docs/build
 .vscode
 spleeter-feedstock/
 *FAKE_MUSDB_DIR
-output/Limelight/vocals.wav
-output/Limelight/drums.wav
-output/Limelight/other.wav
-output/Limelight/bass.wav
-output/audio_example/vocals.wav
-output/audio_example/accompaniment.wav
-Limelight.mp3
-ffmpeg.exe
-ffprobe.exe
